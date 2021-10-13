@@ -1,0 +1,14 @@
+C:\Users\Дима\source\repos\Calculate\Calculate\bin\Debug\netcoreapp3.1\Calculate.exe
+C:\Users\Дима\source\repos\Calculate\Calculate\bin\Debug\netcoreapp3.1\Calculate.deps.json
+C:\Users\Дима\source\repos\Calculate\Calculate\bin\Debug\netcoreapp3.1\Calculate.runtimeconfig.json
+C:\Users\Дима\source\repos\Calculate\Calculate\bin\Debug\netcoreapp3.1\Calculate.runtimeconfig.dev.json
+C:\Users\Дима\source\repos\Calculate\Calculate\bin\Debug\netcoreapp3.1\Calculate.dll
+C:\Users\Дима\source\repos\Calculate\Calculate\bin\Debug\netcoreapp3.1\Calculate.pdb
+C:\Users\Дима\source\repos\Calculate\Calculate\obj\Debug\netcoreapp3.1\Calculate.csproj.AssemblyReference.cache
+C:\Users\Дима\source\repos\Calculate\Calculate\obj\Debug\netcoreapp3.1\Calculate.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Дима\source\repos\Calculate\Calculate\obj\Debug\netcoreapp3.1\Calculate.AssemblyInfoInputs.cache
+C:\Users\Дима\source\repos\Calculate\Calculate\obj\Debug\netcoreapp3.1\Calculate.AssemblyInfo.cs
+C:\Users\Дима\source\repos\Calculate\Calculate\obj\Debug\netcoreapp3.1\Calculate.csproj.CoreCompileInputs.cache
+C:\Users\Дима\source\repos\Calculate\Calculate\obj\Debug\netcoreapp3.1\Calculate.dll
+C:\Users\Дима\source\repos\Calculate\Calculate\obj\Debug\netcoreapp3.1\Calculate.pdb
+C:\Users\Дима\source\repos\Calculate\Calculate\obj\Debug\netcoreapp3.1\Calculate.genruntimeconfig.cache
